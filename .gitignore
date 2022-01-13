@@ -1,2 +1,3 @@
-*/build/*
+**/build/**
+**/bin/**
 setup-test/build/_deps/googletest-subbuild/cmake_install.cmake
